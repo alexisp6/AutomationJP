@@ -1,5 +1,28 @@
-li.menu{
+li.menu {
 	display:inline;
-	background-color: aliceblue;
-	padding-right: 10px;
+	background-color: #CBD7F6;
+	padding: 10px;
+	padding-bottom: 0px;
+	font: 16px Georgia;
+	color: black;
 }
+
+h1 {
+	font: bold 24px Georgia, serif;
+	text-align: center;
+}
+
+header {
+	background-color: cadetblue;
+	color: #CBEFF6;
+	padding-left: 0px;
+}
+
+h2.headerH2 {
+	padding-left: 40px;
+}
+
+body {
+	padding-left: 40px;
+}
+
