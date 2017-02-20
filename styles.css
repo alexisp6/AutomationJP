@@ -15,7 +15,6 @@ h1 {
 header {
 	background-color: cadetblue;
 	color: #CBEFF6;
-	padding-left: 0px;
 }
 
 h2.headerH2 {
@@ -26,3 +25,12 @@ body {
 	padding-left: 40px;
 }
 
+footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #efefef;
+  text-align: center;
+}
