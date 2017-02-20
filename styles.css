@@ -1,4 +1,5 @@
 li.menu{
 	display:inline;
-	background-color: aliceblue; 
+	background-color: aliceblue;
+	padding-right: 10px;
 }
